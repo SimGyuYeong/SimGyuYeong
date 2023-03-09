@@ -25,5 +25,5 @@
 
 ![SimGyuYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimGyuYeong&show_icons=true&theme=great-gatsby&locale=kr)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&locale=kr)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimGyuYeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats&locale=kr)
 </div>
