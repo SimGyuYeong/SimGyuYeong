@@ -24,6 +24,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=SimGyuYeong&theme=highcontrast&hide_border=true&locale=ko&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ![SimGyuYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimGyuYeong&show_icons=true&theme=great-gatsby&locale=kr)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimGyuYeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats&locale=kr)
 </div>
