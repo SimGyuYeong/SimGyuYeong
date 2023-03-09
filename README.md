@@ -5,7 +5,7 @@
 
  ***
 
-✨**사용가능 언어**✨
+✨**Language**✨
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
@@ -13,7 +13,7 @@
  
 **
 
-🔧**사용가능 툴**🔧
+🔧**Tool**🔧
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=black">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
