@@ -3,8 +3,6 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=ff933a&height=300&section=header&text=Gyuyoung's%20GitHub&fontSize=50)
 <div>
 
- ***
-
 ✨**Language**✨
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
